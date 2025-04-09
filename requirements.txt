@@ -1,0 +1,7 @@
+torch
+diffusers
+transformers
+safetensors
+Pillow
+huggingface_hub
+python-dotenv
